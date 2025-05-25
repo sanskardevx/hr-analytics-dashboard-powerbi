@@ -7,7 +7,7 @@ Welcome to the **HR Analytics Dashboard** project! This repository provides acti
 ## 🚀 Overview
 
 - **Dashboard Preview:**  
-  ![HR Analytics Dashboard](./HR_Analytics_Dashboard.jpg)
+  ![HR Analytics Dashboard](./HR_Analytics_Dashboard.png)
 
 - **Dataset:**  
   [Download HR_Analytics.csv](./HR_Analytics.csv)
