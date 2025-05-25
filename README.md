@@ -7,10 +7,11 @@ Welcome to the **HR Analytics Dashboard** project! This repository provides acti
 ## 🚀 Overview
 
 - **Dashboard Preview:**  
-  ![HR Analytics Dashboard](https://pplx-res.cloudinary.com/image/private/user_uploads/65536392/6a258c27-bc2a-4a67-ad3e-8df66d315955/HR_Analystics_Dashboard.jpg)
+  ![HR Analytics Dashboard](./HR_Analystics_Dashboard.png)
 
 - **Dataset:**  
-  [Download HR_Analytics.csv](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/65536392/9eb8faa6-3152-4829-a6c4-5be8bd65d781/HR_Analytics.csv)
+  [Download HR_Analytics.csv](./HR_Analytics.csv)
+
 
 ---
 
