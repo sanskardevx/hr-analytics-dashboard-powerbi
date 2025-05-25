@@ -7,10 +7,10 @@ Welcome to the **HR Analytics Dashboard** project! This repository provides acti
 ## 🚀 Overview
 
 - **Dashboard Preview:**  
-  ![HR Analytics Dashboard](./HR_Analystics_Dashboard.png)
+  ![HR Analytics Dashboard](https://pplx-res.cloudinary.com/image/private/user_uploads/65536392/6a258c27-bc2a-4a67-ad3e-8df66d315955/HR_Analystics_Dashboard.jpg)
 
 - **Dataset:**  
-  [Download HR_Analytics.csv](./HR_Analytics.csv)
+  [Download HR_Analytics.csv](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/65536392/9eb8faa6-3152-4829-a6c4-5be8bd65d781/HR_Analytics.csv)
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to the **HR Analytics Dashboard** project! This repository provides acti
 
 ## 📁 Dataset Structure
 
-- **File:** [HR_Analytics.csv](./HR_Analytics.csv)
+- **File:** [HR_Analytics.csv](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/65536392/9eb8faa6-3152-4829-a6c4-5be8bd65d781/HR_Analytics.csv)
 - **Columns:**
   - EmpID
   - Age
@@ -73,9 +73,7 @@ Welcome to the **HR Analytics Dashboard** project! This repository provides acti
 
 ## 💡 Insights
 
-💡 Insights
-Designed an interactive HR attrition dashboard in Power BI, uncovering key trends by education, salary, and job role to simulate a ~25% improvement in retention strategy planning.
-
-Built a companion analysis in Excel using pivot tables and dynamic charts for multi-dimensional workforce insights across 1,480 employees and a ~16% attrition rate.
+- Designed an interactive HR attrition dashboard in Power BI, uncovering key trends by education, salary, and job role to simulate a ~25% improvement in retention strategy planning.
+- Built a companion analysis in Excel using pivot tables and dynamic charts for multi-dimensional workforce insights across 1,480 employees and a ~16% attrition rate.
 
 ---
