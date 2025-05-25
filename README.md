@@ -73,13 +73,9 @@ Welcome to the **HR Analytics Dashboard** project! This repository provides acti
 
 ## 💡 Insights
 
-- **Attrition Rate:** 16% of employees have left the company.
-- **Key Attrition Segments:**  
-  - Highest attrition in Life Sciences and Medical education fields.
-  - Most attrition occurs in the 26–35 age group.
-  - Employees with a salary up to 5k are most likely to leave.
-  - Laboratory Technicians and Sales Executives have the highest attrition among job roles.
-  - Attrition peaks for employees with 1 year at the company.
-- **Gender Distribution:** Attrition is higher among males than females in this dataset.
+💡 Insights
+Designed an interactive HR attrition dashboard in Power BI, uncovering key trends by education, salary, and job role to simulate a ~25% improvement in retention strategy planning.
+
+Built a companion analysis in Excel using pivot tables and dynamic charts for multi-dimensional workforce insights across 1,480 employees and a ~16% attrition rate.
 
 ---
